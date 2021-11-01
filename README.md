@@ -2,7 +2,7 @@
 
 ## Первая учебная работа Никоновой Евгении для Яндекс.Практикум
 
-_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/how-to-learn/index.html)_
+_[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.github.io/edu-how-to-learn/index.html)_
 
 <p>
   <a href="https://developer.mozilla.org/ru/docs/Web/CSS"><img src="readme/icon-css3.svg" alt="CSS3"></a>
@@ -19,7 +19,7 @@ _[Ссылка на страницу на GitHub Pages](https://beagle-elgaeb.gi
 ### Функциональность проекта
 
 - отображение информации;
-- [страница размещена на GitHub Pages](https://beagle-elgaeb.github.io/how-to-learn/index.html).
+- [страница размещена на GitHub Pages](https://beagle-elgaeb.github.io/edu-how-to-learn/index.html).
 
 ### Задачи учебного проекта
 
